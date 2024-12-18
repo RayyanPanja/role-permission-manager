@@ -1,6 +1,7 @@
 {
     "name": "rayyanpanja/rolepermissionmanager",
     "type": "library",
+    "license": "MIT",
     "require": {
         "laravel/framework": "^11.36"
     },
@@ -9,7 +10,6 @@
             "RayyanPanja\\RolePermissionManager\\": "src/"
         }
     },
-
     "extra": {
         "laravel": {
             "providers": [
@@ -17,11 +17,12 @@
             ]
         }
     },
-
     "authors": [
         {
-            "name": "Dev Codersgarden",
-            "email": "dev@codersgarden.de"
+            "name": "RayyanPanja",
+            "email": "illumi27010@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
