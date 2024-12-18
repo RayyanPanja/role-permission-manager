@@ -1,19 +1,19 @@
 {
-    "name": "codershut/rolepermissionmanager",
+    "name": "rayyanpanja/rolepermissionmanager",
     "type": "library",
     "require": {
         "laravel/framework": "^11.36"
     },
     "autoload": {
         "psr-4": {
-            "Codershut\\RolePermissionManager\\": "src/"
+            "RayyanPanja\\RolePermissionManager\\": "src/"
         }
     },
 
     "extra": {
         "laravel": {
             "providers": [
-                "Codershut\\RolePermissionManager\\RolePermissionManagerServiceProvider"
+                "RayyanPanja\\RolePermissionManager\\RolePermissionManagerServiceProvider"
             ]
         }
     },

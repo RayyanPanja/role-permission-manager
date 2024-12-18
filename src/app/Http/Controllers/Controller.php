@@ -1,6 +1,6 @@
 <?php
 
-namespace CodersHut\RolePermissionManager\Http\Controllers;
+namespace RayyanPanja\RolePermissionManager\Http\Controllers;
 
 abstract class Controller
 {

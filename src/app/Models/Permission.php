@@ -1,6 +1,6 @@
 <?php
 
-namespace CodersHut\RolePermissionManager\Models;
+namespace RayyanPanja\RolePermissionManager\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

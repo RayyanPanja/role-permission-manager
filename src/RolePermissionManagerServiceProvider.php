@@ -1,6 +1,6 @@
 <?php
 
-namespace CodersHut\RolePermissionManager;
+namespace RayyanPanja\RolePermissionManager;
 
 use Illuminate\Support\ServiceProvider;
 
