@@ -1,0 +1,27 @@
+{
+    "name": "codershut/rolepermissionmanager",
+    "type": "library",
+    "require": {
+        "laravel/framework": "^11.36"
+    },
+    "autoload": {
+        "psr-4": {
+            "Codershut\\RolePermissionManager\\": "src/"
+        }
+    },
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Codershut\\RolePermissionManager\\RolePermissionManagerServiceProvider"
+            ]
+        }
+    },
+
+    "authors": [
+        {
+            "name": "Dev Codersgarden",
+            "email": "dev@codersgarden.de"
+        }
+    ]
+}
